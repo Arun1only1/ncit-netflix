@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
-const dbUserName = "abc";
-const dbPassword = "abc1234";
+const dbUserName = "xyz";
+const dbPassword = encodeURIComponent("xyz@123");
 const dbName = "ncit-netflix";
 const dbHost = "school.b6qkdnb.mongodb.net";
 
